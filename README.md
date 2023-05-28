@@ -4,6 +4,4 @@ Data were recorded for two body position, the subjects were asked to sit in a co
 ![image](https://github.com/RazailaAlexandra/GestureMovementsDataset/assets/49149499/7045bad1-6e90-4ac8-b652-3fbf1b3835e6)
 
 And for each position there were three types of movements: raising the hand to the mouth, to the ear and to the forehead. 
-![image](https://github.com/RazailaAlexandra/GestureMovementsDataset/assets/49149499/a7ff0f9a-9923-4b97-925a-41dec3897960)
-
 The frequency used is 50Hz.
